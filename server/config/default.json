@@ -1,0 +1,4 @@
+{
+    "serverPort": 5100,
+    "dbUrl": "mongodb+srv://solbon:solbon@cloud.eduom.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
