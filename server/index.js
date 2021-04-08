@@ -2,6 +2,7 @@ const express = require("express")
 const mongoose = require("mongoose")
 const config = require("config")
 const authRouter = require("./routes/auth.routes")
+const fileRouter = require("./routes/file.routes")
 const app = express()
 const corsMiddleware = require('./middleware/cors.middleware')
 

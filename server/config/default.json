@@ -1,5 +1,6 @@
 {
     "serverPort": 5100,
     "dbUrl": "mongodb+srv://solbon:solbon@cloud.eduom.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-    "secretKey": "mern-secret-key"
+    "secretKey": "mern-secret-key",
+    "filePath": "c:\\Server\\development\\mern-ulbi\\server\\files\\"
 }
